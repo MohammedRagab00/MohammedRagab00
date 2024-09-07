@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! I’m Mohammed Ragab, a passionate software developer with a strong background in Java. I love building innovative solutions and I’m always eager to connect and collaborate.
 
 
