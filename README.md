@@ -21,7 +21,7 @@ let mohammed = {
   location: "New Cairo, Egypt 🇪🇬",
   education: "Computer Science Student @ FSCU",
   graduation: "Expected Jan 2026",
-  currentFocus: ["Backend Development", "AI Integration", "Cloud Deployment"]
+  currentFocus: ["Backend Development", "AI Integration", "Cloud Deployment"],
   funFact: "I’ve debugged more group projects than actual code — sometimes fixing bugs I helped create."
 };
 ```
