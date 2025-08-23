@@ -120,7 +120,7 @@ let mohammed = {
 
 ## 🏆 Achievements & Certifications
 
-💻 **ECPC 2024 && 2025 Participant** - Egyptian Collegiate Programming Contest  
+💻 **Two-Time ECPC Participant** - Egyptian Collegiate Programming Contest (2024 & 2025)
 🎓 **DEPI-R1** - Microsoft Data Engineer Track  
 🎓 **ITIDA Gigs** - Backend Development  
 🎤 **Event Organizer** - TechTalent University Showcase
