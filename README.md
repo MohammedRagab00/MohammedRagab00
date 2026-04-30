@@ -20,13 +20,11 @@
 </div>
 
 ---
----
 
 ### Who Am I?
 
 A Computer Science graduate focused on backend development — databases, APIs, and the logic that keeps things running. I've built role-based systems, worked with schema migrations, and deployed with GitHub Actions. Still early in my career and always picking up something new.
 
----
 ---
 
 ### What I Work With
@@ -37,7 +35,6 @@ A Computer Science graduate focused on backend development — databases, APIs, 
 - **Databases:** PostgreSQL · SQL Server · Oracle · MongoDB · Redis
 - **Tools & Cloud:** Azure · Docker · GitHub Actions · Flyway · Swagger
 
----
 ---
 
 ### Connect
