@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=BFA181&center=true&width=500&lines=Hey,+I'm+Mohammed+Ragab;I'm+a+Backend+Developer.;" alt="Name animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=CFEED1&center=true&width=500&lines=Hey,+I'm+Mohammed+Ragab;I'm+a+Backend+Developer.;" alt="Name animation" />
 </div>
 
 <div align="center">
